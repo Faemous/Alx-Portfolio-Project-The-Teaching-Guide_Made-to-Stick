@@ -13,3 +13,4 @@ CSS <br />
 JavaScript
 
 <br />
+A solo project by Lucky Abiom
